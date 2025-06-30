@@ -1,8 +1,8 @@
-# 🚀 Crypto Dashboard: Pantau Koin, Jangan Sampai Ketinggalan!
+# 🚀 (ChainWatch)Crypto Dashboard: Pantau Koin, Jangan Sampai Ketinggalan!
 
 > "Karena koin bukan cuma buat parkir!"
 
-Selamat datang di **Crypto Dashboard**, tempat di mana kamu bisa memantau harga crypto favoritmu, auto-refresh biar nggak ketinggalan FOMO, dan tentunya... dengan tampilan yang kece, modern, dan siap gelap-gelapan (dark mode, bukan gelap beneran).
+Selamat datang di **(ChainWatch)Crypto Dashboard**, tempat di mana kamu bisa memantau harga crypto favoritmu, auto-refresh biar nggak ketinggalan FOMO, dan tentunya... dengan tampilan yang kece, modern, dan siap gelap-gelapan (dark mode, bukan gelap beneran).
 
 > ⚠️ **Catatan:** Project ini masih dalam tahap pengembangan alias *belum full jadi*! Fitur-fitur baru yang lebih keren, lebih canggih, dan lebih mantap akan segera hadir di masa depan. Nantinya, dashboard ini akan bisa diakses semua orang, bukan cuma developer doang. Tungguin update-nya ya!
 
