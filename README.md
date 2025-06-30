@@ -48,6 +48,7 @@ Selamat datang di **(ChainWatch)Crypto Dashboard**, tempat di mana kamu bisa mem
 ## 🧑‍💻 Kontribusi
 Pull request, issue, atau meme crypto sangat diterima! Jangan lupa kasih bintang kalau suka, kasih kopi kalau cinta.
 
----
+## Link Demo
+https://v0-crypto-market-dashboard-six.vercel.app/
 
 > "Ingat, investasi crypto mengandung candlestick merah. Pantau terus, tapi jangan lupa bahagia!" 🕺💃 
